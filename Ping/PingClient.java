@@ -1,4 +1,4 @@
-// CPSC 441- Fall 2020 - Assignment 3
+
 // Completed By: Mehdi Marzban
 
 
